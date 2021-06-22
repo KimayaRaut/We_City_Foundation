@@ -1,3 +1,4 @@
+![Screenshot (1463)](https://user-images.githubusercontent.com/66699500/123009793-06c7fb80-d3db-11eb-85d8-3fadad5c3c5f.png)
 # We_City_Foundation
 # Output
 ![Screenshot (1453)](https://user-images.githubusercontent.com/66699500/123009533-80abb500-d3da-11eb-8f13-875c51510c19.png)
@@ -8,6 +9,3 @@
 ![Screenshot (1459)](https://user-images.githubusercontent.com/66699500/123009578-94efb200-d3da-11eb-85b6-9905e3062313.png)
 ![Screenshot (1462)](https://user-images.githubusercontent.com/66699500/123009631-ae90f980-d3da-11eb-8e7a-bee67f5899a5.png)
 ![Screenshot (1463)](https://user-images.githubusercontent.com/66699500/123009710-dda76b00-d3da-11eb-9f67-059a2ae95de9.png)
-
-
-
