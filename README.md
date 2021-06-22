@@ -1,4 +1,3 @@
-![Screenshot (1463)](https://user-images.githubusercontent.com/66699500/123009793-06c7fb80-d3db-11eb-85d8-3fadad5c3c5f.png)
 # We_City_Foundation
 # Output
 ![Screenshot (1453)](https://user-images.githubusercontent.com/66699500/123009533-80abb500-d3da-11eb-8f13-875c51510c19.png)
